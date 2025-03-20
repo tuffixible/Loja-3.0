@@ -1,0 +1,5 @@
+
+usuario,senha,nivel,permissoes
+admin,admin123,admin,produtos,financeiro,relatorios,assistente,configuracoes,backup,loja
+vendedor,loja2024,vendedor,produtos,loja
+gerente,ger123,gerente,produtos,financeiro,relatorios,loja

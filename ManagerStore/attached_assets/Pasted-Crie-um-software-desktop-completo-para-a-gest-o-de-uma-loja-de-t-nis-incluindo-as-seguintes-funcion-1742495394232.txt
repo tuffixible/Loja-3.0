@@ -1,0 +1,54 @@
+Crie um software desktop completo para a gestão de uma loja de tênis, incluindo as seguintes funcionalidades:
+
+1. Cadastro de Mercadorias
+Interface intuitiva para adicionar novos produtos com campos como: nome, marca, modelo, categoria, cor, tamanho, preço de custo e preço de venda.
+Upload e visualização de imagens dos produtos.
+Registro de fornecedores com histórico de compras.
+Geração automática de códigos de barras para cada produto.
+2. Gestão Financeira
+Controle de faturamento diário, semanal e mensal.
+Registro e categorização de despesas fixas e variáveis (aluguel, funcionários, impostos, estoque, etc.).
+Relatórios automáticos de lucro, prejuízo e margem de lucro.
+Projeção financeira baseada no histórico de vendas e sazonalidade.
+Integração com bancos via API para controle de recebimentos e pagamentos.
+3. Venda e Emissão de Comprovantes
+Sistema de vendas ágil com pesquisa rápida de produtos.
+Opção de pagamento (cartão, dinheiro, Pix, boleto).
+Integração com maquininhas de cartão via API.
+Impressão de notas fiscais (NF-e/NFC-e) ou recibos digitais.
+Cadastro e histórico de compras dos clientes para fidelização.
+Aplicação de descontos e controle de promoções.
+4. Controle de Custos
+Monitoramento detalhado do custo operacional da loja.
+Comparação entre preço de compra e preço de venda para análise de rentabilidade.
+Sugestões automatizadas de reajuste de preços com base na concorrência e demanda.
+Identificação de produtos mais rentáveis e aqueles que geram prejuízo.
+5. Controle de Mercadoria e Estoque
+Controle automatizado da entrada e saída de produtos.
+Notificações de baixa no estoque e previsão de reabastecimento.
+Relatórios de produtos mais vendidos e menos vendidos.
+Controle de lotes e datas de validade (se aplicável).
+Controle de movimentação de estoque entre filiais, se necessário.
+Geração de etiquetas personalizadas para estoque.
+6. Relatórios Inteligentes com IA
+Painel de estatísticas interativo com gráficos de desempenho da loja.
+Previsão de vendas e tendências com base em dados históricos.
+Sugestões automáticas de reposição de estoque baseadas em padrões de consumo.
+Relatórios detalhados exportáveis em PDF e Excel.
+7. Interface e Usabilidade
+Software leve e rápido, compatível com Windows, macOS e Linux.
+Design moderno e intuitivo, com suporte a telas sensíveis ao toque.
+Acesso multiusuário com diferentes níveis de permissão (administrador, gerente, vendedor).
+Banco de dados local e opção de sincronização na nuvem para backup e acesso remoto.
+Suporte a múltiplos idiomas e personalização de interface.
+8. Segurança e Backup
+Proteção por senha e autenticação em dois fatores.
+Backup automático e criptografia de dados sensíveis.
+Logs detalhados de todas as transações e modificações no sistema.
+Opção de recuperação de dados em caso de falha.
+Tecnologias recomendadas:
+Linguagem: Python, C# ou Java (para desempenho e compatibilidade).
+Banco de Dados: SQLite, PostgreSQL ou MySQL (para robustez e escalabilidade).
+Frameworks: PyQt5 (Python), WPF (C#) ou JavaFX (Java) para interface gráfica.
+Relatórios: JasperReports, FastReport ou Matplotlib para visualização de dados.
+IA e Análises: TensorFlow, Scikit-learn ou Power BI integrado para previsões.
